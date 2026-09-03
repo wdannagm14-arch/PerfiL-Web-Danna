@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | Danna Garzon, your role, your links |
 | About | I am a student of web programming i use my computer to do study and practice i want to learn how to create websites because i want to find a good job |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
