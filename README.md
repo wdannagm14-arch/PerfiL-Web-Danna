@@ -15,7 +15,9 @@ A public web page with six sections:
 |---|---|
 | Home | Danna Garzon – Web Programming Student |
 | About | I am a web programming student. I use my computer to study and practice programming. I am interested in web development and technology. I want to learn how to create websites and improve my skills because I want to find a good job in the future.. |
-| Skills | HTML, CSS, JavaScript, basic PHP, basic Laravel, teamwork and problem solving. |
+| Skills | HTML – I create basic web pages with HTML.
+CSS – I use CSS to design web pages.
+JavaScript – I use JavaScript to add functionality to websites. |
 | Resume | I am currently studying web programming. I am learning about websites, programming languages and databases. I am developing my skills through class projects and personal practice. |
 | Projects | Websites, programming exercises, a password security platform and other university projects. |
 | Contact | GitHub: [wdannagm14] |
